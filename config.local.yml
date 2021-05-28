@@ -1,0 +1,5 @@
+ingress:
+  host: http://localhost
+  port: 8080
+  cors_origins:
+    - http://localhost:8080
